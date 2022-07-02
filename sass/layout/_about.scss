@@ -1,15 +1,15 @@
-.about-list {
+.about__list {
   display: flex;
   margin-left: -30px;
 }
 
-.about-item {
+.about__item {
   flex-basis: calc(100% / 3 - 30px);
   margin-left: var(--typical-margin);
   position: relative;
 }
 
-.about-desc {
+.about__desc {
   width: 100%;
   height: 70px;
   position: absolute;

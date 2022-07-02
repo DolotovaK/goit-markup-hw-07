@@ -1,14 +1,21 @@
 @import './utils/vars';
+@import './utils/hidden';
+@import './utils/mixins';
+
 @import './base/reset';
 @import './base/common';
-@import './utils/hidden';
 
 @import './components/container';
 @import './components/section';
-@import './components/logo-accent';
+@import './components/logo';
+@import './components/socials';
+@import './components/menu';
+@import './components/connect';
 @import './components/btn';
 @import './components/section-title';
 @import './components/modal';
+@import './components/contacts';
+@import './components/subscribe';
 
 @import './layout/header';
 @import './layout/hero';
